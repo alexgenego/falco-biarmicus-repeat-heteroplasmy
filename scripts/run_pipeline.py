@@ -27,6 +27,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    run(PYTHON, "scripts/assemble_candidate_fastas.py")
     run(
         PYTHON, "scripts/analyze_repeat_arrays.py",
         "data/derived/SRR34169110.candidates.union.fasta",

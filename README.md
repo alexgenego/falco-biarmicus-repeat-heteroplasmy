@@ -26,7 +26,7 @@ arrays in long PacBio HiFi reads.
 
 ```text
 data/reference/       reconstructed and reference-projected mtDNA; NUMT panel
-data/derived/         exact candidate-read FASTA files used by the scripts
+data/derived/parts/   byte-exact shards of the three candidate-read FASTA files
 results/reconstruction/ reconstruction evidence and the original 100-read class
 results/SRR34169110/  repeat calls, strict classifications, and summary
 results/SRR25731498/  repeat calls, 77-site classification, and flank linkage
@@ -36,8 +36,10 @@ docs/                 data dictionary and reproducibility notes
 ```
 
 The large primary sequencing runs remain in NCBI SRA under **SRR34169110** and
-**SRR25731498**. The compact derived FASTA files are included so that the
-manuscript-linked analyses can be rerun without downloading complete WGS runs.
+**SRR25731498**. The compact derived FASTA files are included as numbered byte
+shards so that the manuscript-linked analyses can be rerun without downloading
+complete WGS runs. The workflow reassembles and verifies all three FASTA files
+automatically.
 
 ## Requirements
 
@@ -55,7 +57,9 @@ python3 scripts/run_pipeline.py
 ```
 
 This reruns repeat calling, the two mtDNA/NUMT classifications, singleton-indel
-checks, and all manuscript-linked assertions. The expected final message is:
+checks, and all manuscript-linked assertions. Before analysis, the three
+candidate-read FASTA files are reconstructed from `data/derived/parts/` and
+checked against their published SHA-256 digests. The expected final message is:
 
 ```text
 All manuscript-linked validation checks passed.

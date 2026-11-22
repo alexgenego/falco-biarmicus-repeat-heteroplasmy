@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 .venv/
 env/
+data/derived/SRR25731498.candidates.fasta
+data/derived/SRR34169110.candidates.union.fasta
+data/derived/SRR34169110_BLAST5000_candidates.fasta
