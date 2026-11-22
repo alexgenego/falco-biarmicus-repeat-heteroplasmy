@@ -4,6 +4,9 @@ title: "Code and derived data for repeat-number heteroplasmy in Falco biarmicus 
 type: software
 version: 0.1.0
 date-released: 2026-11-22
+doi: 10.5281/zenodo.24442535
+repository-code: "https://github.com/alexgenego/falco-biarmicus-repeat-heteroplasmy"
+url: "https://doi.org/10.5281/zenodo.24442535"
 authors:
   - family-names: Kulikov
     given-names: Alexander M.

@@ -8,6 +8,13 @@
     {"name": "Sorokina, Svetlana Yu.", "affiliation": "Koltzov Institute of Developmental Biology, Russian Academy of Sciences"}
   ],
   "keywords": ["mitochondrial DNA", "heteroplasmy", "tandem repeats", "NUMT", "PacBio HiFi", "Falco biarmicus"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/alexgenego/falco-biarmicus-repeat-heteroplasmy",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
   "license": "MIT",
   "version": "0.1.0"
 }

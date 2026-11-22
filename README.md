@@ -1,5 +1,7 @@
 # Falco biarmicus repeat-number heteroplasmy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24442535.svg)](https://doi.org/10.5281/zenodo.24442535)
+
 Code, derived candidate reads, reference sequences, and manuscript-linked
 tables for the analysis of tandem-repeat copy-number heteroplasmy in the
 mitochondrial control region of the lanner falcon (*Falco biarmicus*).
@@ -108,9 +110,10 @@ after deposition.
 
 ## Citation and permanent archive
 
-The release citation and Zenodo DOI will be added after the public GitHub
-release is archived. Preliminary citation metadata are provided in
-`CITATION.cff` and `.zenodo.json`.
+The archived reproducibility package has the reserved DOI
+[`10.5281/zenodo.24442535`](https://doi.org/10.5281/zenodo.24442535). The DOI
+will resolve after the Zenodo record is published. Machine-readable citation
+metadata are provided in `CITATION.cff` and `.zenodo.json`.
 
 ## Licensing
 
