@@ -1,0 +1,42 @@
+SAMPLE SRR34169110
+READ gnl|SRA|SRR34169110.3087023.1
+array=R56 called_copies=4 orientation=-
+query_segment=5492:6036 (544 bp); reference_segment=15992:16592 (600 bp)
+length_difference_query_minus_reference=-56 bp; alignment_score=1023
+aligned_ungapped_identity=544/544 (1.00000)
+gap_runs_len>=5:
+  deletion_from_read	length=56	position=160	sequence=TTTTTCACGCAATATTGCACTCCCCGGCGCTGGAGTTACATTAACAATTACACTTA
+
+SAMPLE SRR25731498
+READ gnl|SRA|SRR25731498.691932.1
+array=R56 called_copies=6 orientation=-
+query_segment=2584:3240 (656 bp); reference_segment=15992:16592 (600 bp)
+length_difference_query_minus_reference=56 bp; alignment_score=1062
+aligned_ungapped_identity=588/595 (0.98824)
+gap_runs_len>=5:
+  insertion_in_read	length=55	position=238	sequence=CCCGGCGCTGGAGTTACATTAACAATTACACTTATTTTTTACGCAATATTGCACT
+  insertion_in_read	length=6	position=505	sequence=CCCCCT
+  deletion_from_read	length=5	position=594	sequence=CAACC
+
+SAMPLE SRR25731498
+READ gnl|SRA|SRR25731498.308159.1
+array=R56 called_copies=4 orientation=-
+query_segment=10094:10641 (547 bp); reference_segment=15992:16592 (600 bp)
+length_difference_query_minus_reference=-53 bp; alignment_score=927
+aligned_ungapped_identity=538/544 (0.98897)
+gap_runs_len>=5:
+  deletion_from_read	length=35	position=409	sequence=GGCGCTGGAGTTACATTAACAATTACACTTATTTT
+  deletion_from_read	length=10	position=391	sequence=CGCAATATTG
+  deletion_from_read	length=5	position=446	sequence=ACACA
+  deletion_from_read	length=5	position=594	sequence=CAACC
+
+SAMPLE SRR25731498
+READ gnl|SRA|SRR25731498.711747.1
+array=R80 called_copies=2 orientation=+
+query_segment=7630:8105 (475 bp); reference_segment=14806:15366 (560 bp)
+length_difference_query_minus_reference=-85 bp; alignment_score=734
+aligned_ungapped_identity=464/470 (0.98723)
+gap_runs_len>=5:
+  deletion_from_read	length=77	position=331	sequence=CATGCCAGCCCTAAGCTGGCATTTTTACCAAAAATAAATCAACTTCCTTAAAATAAAGCCCCTCACCACCCCCCCTT
+  deletion_from_read	length=7	position=161	sequence=CCCCCTT
+  deletion_from_read	length=5	position=555	sequence=AAATT

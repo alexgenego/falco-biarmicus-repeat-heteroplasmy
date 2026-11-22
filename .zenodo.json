@@ -1,0 +1,13 @@
+{
+  "title": "Code and derived data for repeat-number heteroplasmy in Falco biarmicus mitochondrial DNA",
+  "upload_type": "software",
+  "description": "Reproducible code, compact derived candidate-read sets, diagnostic positions, read classifications, repeat-copy calls, nuclear-flank linkage results, and singleton-indel alignments supporting an analysis of mitochondrial control-region repeat-number heteroplasmy in Falco biarmicus.",
+  "creators": [
+    {"name": "Kulikov, Alexander M.", "affiliation": "Koltzov Institute of Developmental Biology, Russian Academy of Sciences"},
+    {"name": "Rozhkova, Daria N.", "affiliation": "Koltzov Institute of Developmental Biology, Russian Academy of Sciences"},
+    {"name": "Sorokina, Svetlana Yu.", "affiliation": "Koltzov Institute of Developmental Biology, Russian Academy of Sciences"}
+  ],
+  "keywords": ["mitochondrial DNA", "heteroplasmy", "tandem repeats", "NUMT", "PacBio HiFi", "Falco biarmicus"],
+  "license": "MIT",
+  "version": "0.1.0"
+}

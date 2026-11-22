@@ -1,0 +1,3 @@
+seq1	seq2	seq1_length	seq2_length	aligned_pair_bases	matches	substitutions	identity	gap_events	gap_bp_in_seq1	gap_bp_in_seq2
+BIA_mtDNA_consensus_v1	F_cherrug_NC_026715.1	18088	18059	18052	17922	130	0.9927986	6	7	36
+BIA_mtDNA_consensus_v1	F_rusticolus_KT989235.1	18088	18218	18087	18021	66	0.996351	5	131	1

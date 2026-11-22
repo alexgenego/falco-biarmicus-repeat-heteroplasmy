@@ -1,0 +1,363 @@
+read_id	read_length	mtDNA_signature_hits	young_NUMT_signature_hits	other_diagnostic_calls	classification	classification_basis	R27	R56	R80	arrays_called	total_anchor_mismatches	mtDNA_signature_positions	young_NUMT_signature_positions	other_diagnostic_positions	R27_residual_bp	R27_anchor_mm	R27_quantitative_subset	R56_residual_bp	R56_anchor_mm	R56_quantitative_subset	R80_residual_bp	R80_anchor_mm	R80_quantitative_subset
+gnl|SRA|SRR34169110.1018599.1	19033	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	55	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			5	0	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.1022840.1	18685	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		11	2	no			no			no
+gnl|SRA|SRR34169110.1034802.1	21203	0	4	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.1077411.1	22168	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.1116253.1	25228	1	2	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.1159418.1	12515	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		9	1	no			no			no
+gnl|SRA|SRR34169110.1159808.1	23468	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.1166354.1	10227	0	9	0	unclassified	insufficient_for_strict_class			3	1	1		6552,7360,7789,8186,8560,8790,13289,13346,15389				no			no	9	1	no
+gnl|SRA|SRR34169110.1175347.1	15942	0	4	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742		6	1	no			no			no
+gnl|SRA|SRR34169110.117807.1	14149	2	6	0	unclassified	insufficient_for_strict_class	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552		-3	1	no			no			no
+gnl|SRA|SRR34169110.1189316.1	16467	13	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	51	5	3	3	0	1222,1303,1721,1742,4782,7360,7789,8186,8560,8790,13289,13346,15389			5	0	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.1205241.1	16856	0	5	0	unclassified	insufficient_for_strict_class	31			1	1		1721,4782,4988,5553,6552		12	1	no			no			no
+gnl|SRA|SRR34169110.1221139.1	16601	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		11	2	no			no			no
+gnl|SRA|SRR34169110.1283656.1	12999	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.1348989.1	14889	0	3	0	unclassified	insufficient_for_strict_class	23			1	1		1222,1721,1742		1	1	no			no			no
+gnl|SRA|SRR34169110.1358218.1	18751	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	54	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			4	0	yes	0	0	yes	1	0	yes
+gnl|SRA|SRR34169110.1380486.1	17604	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	39	5	3	3	2	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			-10	1	yes	-2	1	yes	-1	0	yes
+gnl|SRA|SRR34169110.1405930.1	24696	0	3	0	unclassified	insufficient_for_strict_class	11			1	1		1222,1721,1742		-10	1	no			no			no
+gnl|SRA|SRR34169110.140733.1	15726	2	6	0	unclassified	insufficient_for_strict_class	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552		-4	1	no			no			no
+gnl|SRA|SRR34169110.142205.1	13765	0	4	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.1424568.1	18928	0	4	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742		6	1	no			no			no
+gnl|SRA|SRR34169110.1427229.1	17192	1	1	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222		5	1	no			no			no
+gnl|SRA|SRR34169110.1437031.1	16416	1	3	0	unclassified	insufficient_for_strict_class	7			1	3	1303	1222,1721,1742		4	3	no			no			no
+gnl|SRA|SRR34169110.144935.1	29834	1	2	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721		5	1	no			no			no
+gnl|SRA|SRR34169110.1464109.1	14169	1	1	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222		11	2	no			no			no
+gnl|SRA|SRR34169110.1465102.1	18492	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	41	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			5	0	yes	-1	0	yes	1	0	yes
+gnl|SRA|SRR34169110.1474559.1	19741	0	15	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8560,8790,13289,13346,15389		12	0	no	-1	0	no	8	1	no
+gnl|SRA|SRR34169110.1490275.1	18141	0	8	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,8790,13289,13346,15389				no	0	0	no	7	1	no
+gnl|SRA|SRR34169110.1491839.1	13707	1	3	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721		-5	1	no			no			no
+gnl|SRA|SRR34169110.1509189.1	19502	1	14	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	2	5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		7	0	no	0	0	no	8	2	no
+gnl|SRA|SRR34169110.1537897.1	19320	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.1538557.1	15540	13	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	38	5	3	3	2	1222,1303,1721,1742,4782,4988,5553,6552,7789,8186,8560,8790,15389			4	0	yes	-1	1	yes	-2	1	yes
+gnl|SRA|SRR34169110.160079.1	19825	0	4	0	unclassified	insufficient_for_strict_class	39			1	0		1222,1303,1721,1742		9	0	no			no			no
+gnl|SRA|SRR34169110.1685216.1	15745	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.1703582.1	16709	0	5	0	unclassified	insufficient_for_strict_class	34	9	3	3	1		1222,1303,1721,1742,15389		11	0	no	0	0	no	7	1	no
+gnl|SRA|SRR34169110.172058.1	15835	0	7	0	unclassified	insufficient_for_strict_class	34	9	3	3	7		1222,1303,1721,1742,13289,13346,15389		7	6	no	0	0	no	7	1	no
+gnl|SRA|SRR34169110.1742199.1	26471	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.1744782.1	17095	2	10	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560		-5	1	no			no			no
+gnl|SRA|SRR34169110.1770691.1	19926	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-3	1	no			no			no
+gnl|SRA|SRR34169110.1785543.1	26638	0	7	0	unclassified	insufficient_for_strict_class	34	10	3	3	1		1222,1303,1721,1742,13289,13346,15389		12	0	no	-5	0	no	7	1	no
+gnl|SRA|SRR34169110.1793633.1	17183	1	15	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	1	5553	1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		7	0	no	-1	0	no	8	1	no
+gnl|SRA|SRR34169110.1819377.1	21982	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-4	1	no			no			no
+gnl|SRA|SRR34169110.1895402.1	13518	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.190110.1	18022	1	1	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222		10	2	no			no			no
+gnl|SRA|SRR34169110.1931719.1	36423	1	2	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1721,1742		10	1	no			no			no
+gnl|SRA|SRR34169110.1968622.1	36842	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.2046012.1	24318	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		11	1	no			no			no
+gnl|SRA|SRR34169110.2048053.1	18377	15	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	41	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8560,8790,13289,13346,15389			3	0	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.2051845.1	20698	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.2073809.1	15645	0	4	0	unclassified	insufficient_for_strict_class	40	8		2	3		1222,1303,1721,1742		-9	0	no	10	3	no			no
+gnl|SRA|SRR34169110.2109611.1	12608	9	0	0	unclassified	insufficient_for_strict_class	47	5	3	3	1	1222,1303,1721,1742,4782,4988,13289,13346,15389			6	0	no	-2	1	no	3	0	no
+gnl|SRA|SRR34169110.2120558.1	23214	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		9	1	no			no			no
+gnl|SRA|SRR34169110.2228332.1	18121	1	3	0	unclassified	insufficient_for_strict_class	23			1	2	1303	1222,1721,1742		6	2	no			no			no
+gnl|SRA|SRR34169110.226595.1	26173	1	2	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721		5	1	no			no			no
+gnl|SRA|SRR34169110.2268749.1	33946	0	15	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	1		1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		9	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.2283455.1	28246	0	11	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	2		1222,1303,1721,7360,7789,8186,8560,8790,13289,13346,15389		6	0	no	1	0	no	11	2	no
+gnl|SRA|SRR34169110.2302664.1	21512	0	2	0	unclassified	insufficient_for_strict_class	7			1	1		1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.232244.1	30344	0	3	0	unclassified	insufficient_for_strict_class	10			1	1		1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.2335771.1	22296	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.2376980.1	28400	0	15	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	5		1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		9	2	no	-1	1	no	9	2	no
+gnl|SRA|SRR34169110.2379059.1	31116	1	3	0	unclassified	insufficient_for_strict_class	7			1	3	1303	1222,1721,1742		12	3	no			no			no
+gnl|SRA|SRR34169110.2416129.1	22931	0	7	0	unclassified	insufficient_for_strict_class	39	8		2	3		1222,1742,7360,8186,8560,8790,15389		12	2	no	10	1	no			no
+gnl|SRA|SRR34169110.2425961.1	26828	1	14	0	strict_young_NUMT-like	diagnostic_panel	25	8	3	3	3	1742	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		-5	2	no	1	0	no	6	1	no
+gnl|SRA|SRR34169110.2500909.1	11357	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		-12	1	no			no			no
+gnl|SRA|SRR34169110.2516113.1	17069	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.2552161.1	27316	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.2557732.1	17940	0	14	0	strict_young_NUMT-like	diagnostic_panel	31		3	2	4		1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		8	1	no			no	7	3	no
+gnl|SRA|SRR34169110.2613813.1	32681	2	14	0	strict_young_NUMT-like	diagnostic_panel	25	8	3	3	4	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		-3	1	no	-2	0	no	7	3	no
+gnl|SRA|SRR34169110.2618122.1	18291	1	3	0	unclassified	insufficient_for_strict_class	7			1	3	1303	1222,1721,1742		11	3	no			no			no
+gnl|SRA|SRR34169110.2627428.1	19936	1	15	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	1	5553	1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		3	0	no	0	0	no	5	1	no
+gnl|SRA|SRR34169110.2648951.1	26270	0	6	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,13289,13346,15389				no	-4	0	no	8	1	no
+gnl|SRA|SRR34169110.2704734.1	21855	1	5	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721,4782,4988		-3	1	no			no			no
+gnl|SRA|SRR34169110.2705337.1	24818	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.2705913.1	23498	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.2710766.1	30722	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.2742924.1	21961	0	3	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721		11	1	no			no			no
+gnl|SRA|SRR34169110.2742991.1	22108	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.2762161.1	13317	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	10	1	no
+gnl|SRA|SRR34169110.2790908.1	12334	0	9	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		6552,7360,7789,8186,8560,8790,13289,13346,15389		6	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.2793784.1	24111	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.2810284.1	14110	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1742		10	2	no			no			no
+gnl|SRA|SRR34169110.2832887.1	15628	1	5	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721,4782,4988		-4	1	no			no			no
+gnl|SRA|SRR34169110.2836407.1	24205	1	3	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721		-6	1	no			no			no
+gnl|SRA|SRR34169110.2850849.1	16518	2	14	0	strict_young_NUMT-like	diagnostic_panel		8	3	2	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389				no	1	0	no	8	1	no
+gnl|SRA|SRR34169110.2872681.1	22248	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.2890802.1	29249	1	5	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721,4782,4988		-7	1	no			no			no
+gnl|SRA|SRR34169110.2891222.1	14891	0	7	0	unclassified	insufficient_for_strict_class	34	9	3	3	1		1222,1303,1721,1742,13289,13346,15389		12	0	no	2	0	no	7	1	no
+gnl|SRA|SRR34169110.2908896.1	18176	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	34	5	3	3	2	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			6	0	yes	1	0	yes	-3	2	yes
+gnl|SRA|SRR34169110.2913413.1	34121	0	15	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	2		1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		11	0	no	1	1	no	11	1	no
+gnl|SRA|SRR34169110.2929882.1	13140	0	12	0	strict_young_NUMT-like	diagnostic_panel		9	3	2	1		4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389				no	-4	0	no	5	1	no
+gnl|SRA|SRR34169110.2935284.1	17246	0	9	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,1742,8560,8790,13289,13346,15389		9	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.2986992.1	18692	0	10	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	1		1222,1303,1721,1742,8186,8560,8790,13289,13346,15389		9	0	no	-2	0	no	8	1	no
+gnl|SRA|SRR34169110.2994199.1	21179	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3000144.1	22937	0	15	0	strict_young_NUMT-like	diagnostic_panel	31	9	3	3	3		1222,1303,1721,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		11	1	no	1	0	no	7	2	no
+gnl|SRA|SRR34169110.3014084.1	19375	0	16	0	strict_young_NUMT-like	diagnostic_panel	31	9	3	3	3		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		11	1	no	-1	0	no	11	2	no
+gnl|SRA|SRR34169110.3026321.1	27956	1	3	0	unclassified	insufficient_for_strict_class	12			1	1	1303	1222,1721,1742		-3	1	no			no			no
+gnl|SRA|SRR34169110.303746.1	16002	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	33	5	3	3	1	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			4	0	yes	0	0	yes	0	1	yes
+gnl|SRA|SRR34169110.305655.1	20077	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.3085925.1	27866	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		5	2	no			no			no
+gnl|SRA|SRR34169110.3087023.1	14681	10	0	0	strict_mtDNA-like	saturated_search_strict_extension	31	4	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,13346,15389			5	0	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.3165343.1	19261	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.3194258.1	17531	0	10	0	strict_young_NUMT-like	diagnostic_panel		9	3	2	1		4782,4988,5553,6552,7789,8186,8560,8790,13289,13346				no	4	0	no	11	1	no
+gnl|SRA|SRR34169110.3209153.1	25956	2	13	0	strict_young_NUMT-like	diagnostic_panel	25		3	2	2	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346		-5	1	no			no	10	1	no
+gnl|SRA|SRR34169110.3220832.1	22619	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.3269307.1	18012	15	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	30	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,7360,7789,8186,8560,8790,13289,13346,15389			2	0	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.328513.1	18372	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,1742,13289,13346,15389		9	0	no	-1	0	no	8	1	no
+gnl|SRA|SRR34169110.3298141.1	18265	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.3304125.1	29070	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.3321788.1	27959	1	15	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	4	5553	1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		7	0	no	3	1	no	6	3	no
+gnl|SRA|SRR34169110.3337272.1	30454	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	2		1222,1303,1721,1742,13289,13346,15389		7	0	no	0	1	no	10	1	no
+gnl|SRA|SRR34169110.3420973.1	23793	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.3449156.1	29049	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3467567.1	20543	1	2	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721		11	1	no			no			no
+gnl|SRA|SRR34169110.3477695.1	18251	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3482648.1	13179	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3482946.1	18652	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	50	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			6	0	yes	-1	0	yes	1	0	yes
+gnl|SRA|SRR34169110.3494783.1	26614	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3511993.1	13017	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3533664.1	20374	0	12	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	2		1222,1303,1721,1742,7360,7789,8186,8560,8790,13289,13346,15389		4	0	no	-4	1	no	6	1	no
+gnl|SRA|SRR34169110.3534645.1	28116	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.3536486.1	18924	0	3	0	unclassified	insufficient_for_strict_class	11			1	2		1222,1721,1742		-12	2	no			no			no
+gnl|SRA|SRR34169110.3567946.1	21863	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3612769.1	26431	1	14	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	1	5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		10	0	no	0	0	no	5	1	no
+gnl|SRA|SRR34169110.3616374.1	10430	0	6	0	unclassified	insufficient_for_strict_class		8	3	2	1		8186,8560,8790,13289,13346,15389				no	0	0	no	9	1	no
+gnl|SRA|SRR34169110.3623179.1	25771	1	2	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721		4	1	no			no			no
+gnl|SRA|SRR34169110.3637720.1	15973	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-4	1	no			no			no
+gnl|SRA|SRR34169110.3666680.1	21287	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3745995.1	23894	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3793470.1	16074	1	9	0	unclassified	insufficient_for_strict_class	25			1	1	5553	1222,4782,4988,6552,7360,7789,8186,8560,8790		-7	1	no			no			no
+gnl|SRA|SRR34169110.3854698.1	35947	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.3908937.1	14001	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.3910522.1	19753	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.3945861.1	30408	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		10	1	no			no			no
+gnl|SRA|SRR34169110.395511.1	16215	1	1	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222		5	1	no			no			no
+gnl|SRA|SRR34169110.3957064.1	17787	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.3980927.1	32372	1	13	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	3	5553	1222,1303,1721,4782,6552,7360,7789,8186,8560,8790,13289,13346,15389		10	1	no	-1	1	no	8	1	no
+gnl|SRA|SRR34169110.3983376.1	23116	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.4037448.1	14037	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.404912.1	15453	0	3	0	unclassified	insufficient_for_strict_class	31			1	2		1222,1303,1721		8	2	no			no			no
+gnl|SRA|SRR34169110.4058071.1	16476	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-4	1	no			no			no
+gnl|SRA|SRR34169110.4066329.1	12235	13	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	49			1	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790			6	0	yes			no			no
+gnl|SRA|SRR34169110.4077734.1	17097	1	3	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721		-4	1	no			no			no
+gnl|SRA|SRR34169110.4080368.1	22519	0	4	0	unclassified	insufficient_for_strict_class	32			1	1		1222,1303,1721,1742		-7	1	no			no			no
+gnl|SRA|SRR34169110.4097090.1	14607	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.4108137.1	14386	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.4119828.1	19941	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		7	1	no			no			no
+gnl|SRA|SRR34169110.4121904.1	18113	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	29	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			-2	0	yes	0	0	yes	2	0	yes
+gnl|SRA|SRR34169110.4156676.1	31886	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.4189663.1	22847	0	14	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	1		1222,1303,1721,1742,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		11	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.4208867.1	17972	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.4212887.1	17365	2	13	0	strict_young_NUMT-like	diagnostic_panel	25		3	2	3	1742,5553	1222,1303,1721,4782,4988,6552,7360,8186,8560,8790,13289,13346,15389		-5	1	no			no	6	2	no
+gnl|SRA|SRR34169110.4272215.1	19468	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		11	2	no			no			no
+gnl|SRA|SRR34169110.4277780.1	11497	13	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	52			1	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790			5	0	yes			no			no
+gnl|SRA|SRR34169110.4290647.1	21773	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		11	2	no			no			no
+gnl|SRA|SRR34169110.4292629.1	17968	1	2	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721		10	1	no			no			no
+gnl|SRA|SRR34169110.4295990.1	8580	8	0	0	unclassified	insufficient_for_strict_class	26	5		2	0	1222,1303,1721,1742,4782,4988,5553,15389			12	0	no	0	0	no			no
+gnl|SRA|SRR34169110.4302388.1	17099	14	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	37	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,15389			5	0	yes	0	0	yes	-1	0	yes
+gnl|SRA|SRR34169110.4316029.1	23211	0	8	0	unclassified	insufficient_for_strict_class	34	9	3	3	2		1222,1303,1721,1742,8790,13289,13346,15389		12	1	no	1	0	no	8	1	no
+gnl|SRA|SRR34169110.4337128.1	23595	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.4346278.1	18895	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	58	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			4	0	yes	0	0	yes	-1	0	yes
+gnl|SRA|SRR34169110.4353571.1	18062	14	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	54	5		2	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,8186,8560,8790,13289,13346			5	0	yes	0	0	yes			no
+gnl|SRA|SRR34169110.4378435.1	19629	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,8790,13289,13346,15389		5	0	no	-1	0	no	6	1	no
+gnl|SRA|SRR34169110.4439666.1	19846	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.4450237.1	33848	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		10	1	no			no			no
+gnl|SRA|SRR34169110.4464301.1	24476	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		11	2	no			no			no
+gnl|SRA|SRR34169110.4490189.1	18731	0	6	0	unclassified	insufficient_for_strict_class	32			1	1		1222,1303,1721,1742,4782,4988		-10	1	no			no			no
+gnl|SRA|SRR34169110.4499189.1	22131	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.451096.1	17609	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.4534830.1	22004	0	10	0	strict_young_NUMT-like	diagnostic_panel		9	3	2	1		1222,1303,1721,1742,8186,8560,8790,13289,13346,15389				no	0	0	no	7	1	no
+gnl|SRA|SRR34169110.4535595.1	26658	0	4	0	unclassified	insufficient_for_strict_class	39			1	0		1222,1303,1721,1742		11	0	no			no			no
+gnl|SRA|SRR34169110.4535939.1	15149	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		6	1	no			no			no
+gnl|SRA|SRR34169110.4542987.1	31393	0	15	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,8186,8560,8790,13289,13346,15389		10	0	no	-2	0	no	6	1	no
+gnl|SRA|SRR34169110.4547553.1	28179	0	12	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	4		1222,1303,1721,1742,7360,7789,8186,8560,8790,13289,13346,15389		8	1	no	1	1	no	5	2	no
+gnl|SRA|SRR34169110.4585693.1	16203	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-6	1	no			no			no
+gnl|SRA|SRR34169110.4651404.1	22773	1	15	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	1	5553	1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		6	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.4671327.1	13389	0	9	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,1742,8560,8790,13289,13346,15389		9	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.4677504.1	28700	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.4681083.1	20959	0	9	0	unclassified	insufficient_for_strict_class	34	9	3	3	1		1222,1303,1721,1742,8560,8790,13289,13346,15389		11	0	no	0	0	no	7	1	no
+gnl|SRA|SRR34169110.470967.1	20449	0	16	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		12	0	no	-1	0	no	6	1	no
+gnl|SRA|SRR34169110.4736096.1	26079	0	8	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742,4782,4988,5553,6552		9	1	no			no			no
+gnl|SRA|SRR34169110.4740496.1	27422	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.4742342.1	18902	1	3	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721		-4	1	no			no			no
+gnl|SRA|SRR34169110.4742841.1	16053	12	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class		5	3	2	0	4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389					no	-1	0	yes	-1	0	yes
+gnl|SRA|SRR34169110.4749888.1	19618	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	3		1222,1303,1721,1742,13289,13346,15389		10	1	no	0	1	no	10	1	no
+gnl|SRA|SRR34169110.4762777.1	17169	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.4765318.1	8535	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.4766865.1	18347	0	16	0	strict_young_NUMT-like	diagnostic_panel			3	1	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389				no			no	8	1	no
+gnl|SRA|SRR34169110.4768621.1	26302	1	2	0	unclassified	insufficient_for_strict_class	8			1	2	1303	1222,1721		-12	2	no			no			no
+gnl|SRA|SRR34169110.4818507.1	11670	1	11	0	strict_young_NUMT-like	diagnostic_panel	24			1	2	5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		9	2	no			no			no
+gnl|SRA|SRR34169110.4850903.1	32440	1	10	0	strict_young_NUMT-like	diagnostic_panel	40	8		2	6	5553	1303,1721,6552,7360,7789,8186,8560,8790,13289,15389		-12	5	no	1	1	no			no
+gnl|SRA|SRR34169110.4868789.1	23370	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.4881237.1	14760	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-10	1	no			no			no
+gnl|SRA|SRR34169110.4882270.1	17611	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.4915675.1	10810	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.4934859.1	17677	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class		5	3	2	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389					no	-1	0	yes	0	0	yes
+gnl|SRA|SRR34169110.4936825.1	19012	2	8	0	unclassified	insufficient_for_strict_class	25			1	2	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789		-6	2	no			no			no
+gnl|SRA|SRR34169110.4962186.1	23397	0	13	0	strict_young_NUMT-like	diagnostic_panel	31			1	2		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790		1	2	no			no			no
+gnl|SRA|SRR34169110.4972925.1	27583	0	4	0	unclassified	insufficient_for_strict_class	39	8		2	1		1222,1303,1721,1742		7	0	no	0	1	no			no
+gnl|SRA|SRR34169110.5006295.1	15139	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.5007648.1	16136	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.5011969.1	14315	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-4	1	no			no			no
+gnl|SRA|SRR34169110.5027803.1	24616	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.5052169.1	28740	0	6	0	unclassified	insufficient_for_strict_class	39	8	3	3	4		1222,1303,1721,13289,13346,15389		2	1	no	-2	1	no	11	2	no
+gnl|SRA|SRR34169110.5095170.1	25332	0	13	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	2		1222,1303,1721,1742,6552,7360,7789,8186,8560,8790,13289,13346,15389		9	0	no	1	1	no	10	1	no
+gnl|SRA|SRR34169110.5118165.1	29861	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	2		1222,1303,1721,1742,13289,13346,15389				no	1	1	no	8	1	no
+gnl|SRA|SRR34169110.5120774.1	26533	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.5176605.1	26648	0	12	0	strict_young_NUMT-like	diagnostic_panel	39	8		2	1		1222,1303,1721,1742,7360,7789,8186,8560,8790,13289,13346,15389		-2	1	no	3	0	no			no
+gnl|SRA|SRR34169110.520215.1	30583	0	7	0	unclassified	insufficient_for_strict_class	34	9	3	3	1		1222,1303,1721,1742,13289,13346,15389		12	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.5214777.1	20719	1	2	0	unclassified	insufficient_for_strict_class				0	0	1303	1222,1742				no			no			no
+gnl|SRA|SRR34169110.5231676.1	35523	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		7	1	no			no			no
+gnl|SRA|SRR34169110.525951.1	17372	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	41	5	3	3	1	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			4	1	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.5266709.1	20230	0	2	0	unclassified	insufficient_for_strict_class	25			1	1		1222,1303		-4	1	no			no			no
+gnl|SRA|SRR34169110.5269749.1	26474	0	3	0	unclassified	insufficient_for_strict_class	10			1	1		1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.5295512.1	21120	1	3	0	unclassified	insufficient_for_strict_class	12			1	1	1303	1222,1721,1742		-12	1	no			no			no
+gnl|SRA|SRR34169110.5315442.1	20284	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.5410140.1	21764	1	3	0	unclassified	insufficient_for_strict_class	10			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.5414404.1	21611	0	1	0	unclassified	insufficient_for_strict_class	8			1	3		1222		-11	3	no			no			no
+gnl|SRA|SRR34169110.5449784.1	22985	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.5483448.1	23395	1	3	0	unclassified	insufficient_for_strict_class	10			1	8	1303	1222,1721,1742		7	8	no			no			no
+gnl|SRA|SRR34169110.5507412.1	18823	15	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class		5	3	2	1	1222,1303,1721,1742,4782,4988,5553,6552,7360,8186,8560,8790,13289,13346,15389					no	0	1	yes	0	0	yes
+gnl|SRA|SRR34169110.5510404.1	21301	0	6	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,13289,13346,15389				no	-1	0	no	10	1	no
+gnl|SRA|SRR34169110.5516667.1	14920	11	0	0	mtDNA-like_array-specific	diagnostic_panel_with_array_quality_filter	53	5	3	3	1	1222,1303,1721,1742,4782,4988,5553,6552,13289,13346,15389			6	1	no	0	0	yes	1	0	yes
+gnl|SRA|SRR34169110.5519742.1	24260	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.553799.1	18707	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	52	5		2	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			5	0	yes	0	0	yes			no
+gnl|SRA|SRR34169110.5542786.1	15007	1	11	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	1	5553	1222,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		8	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.5543086.1	27044	0	15	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346		12	0	no	0	0	no	12	1	no
+gnl|SRA|SRR34169110.5549658.1	12889	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,1742,13289,13346,15389		9	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.5567286.1	14542	0	4	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,15389		-5	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.5587849.1	24760	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.5673310.1	19943	0	6	0	unclassified	insufficient_for_strict_class	34	9	3	3	2		1222,1303,1721,1742,13289,13346		11	0	no	0	1	no	9	1	no
+gnl|SRA|SRR34169110.5730373.1	18129	14	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	32	5	3	3	1	1222,1303,1742,4782,4988,5553,6552,7360,7789,8186,8560,13289,13346,15389			3	0	yes	-2	1	yes	-1	0	yes
+gnl|SRA|SRR34169110.5758558.1	21103	2	13	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346		-5	1	no			no			no
+gnl|SRA|SRR34169110.576124.1	19507	1	2	0	unclassified	insufficient_for_strict_class	23			1	2	1303	1222,1721		1	2	no			no			no
+gnl|SRA|SRR34169110.5810425.1	32112	1	3	0	unclassified	insufficient_for_strict_class	11			1	3	1303	1222,1721,1742		12	3	no			no			no
+gnl|SRA|SRR34169110.5819818.1	14062	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.5830771.1	13386	0	9	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		6552,7360,7789,8186,8560,8790,13289,13346,15389		9	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.5858722.1	23543	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.5885627.1	27705	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		6	1	no			no			no
+gnl|SRA|SRR34169110.5887220.1	20728	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.5904017.1	21845	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.5976167.1	17219	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		10	1	no			no			no
+gnl|SRA|SRR34169110.6016280.1	17855	0	4	0	unclassified	insufficient_for_strict_class	39			1	0		1222,1303,1721,1742		9	0	no			no			no
+gnl|SRA|SRR34169110.6040086.1	24395	1	3	0	unclassified	insufficient_for_strict_class	25			1	1	1742	1222,1303,1721		-4	1	no			no			no
+gnl|SRA|SRR34169110.6068671.1	13236	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.6104774.1	19476	2	5	0	unclassified	insufficient_for_strict_class	25			1	1	1742,5553	1222,1303,1721,4782,4988		-5	1	no			no			no
+gnl|SRA|SRR34169110.6124249.1	19882	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.612568.1	16132	1	3	0	unclassified	insufficient_for_strict_class	7			1	3	1303	1222,1721,1742		12	3	no			no			no
+gnl|SRA|SRR34169110.61266.1	16979	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		6	1	no			no			no
+gnl|SRA|SRR34169110.6168843.1	19888	0	16	0	strict_young_NUMT-like	diagnostic_panel	37	9	3	3	2		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		-6	0	no	0	0	no	8	2	no
+gnl|SRA|SRR34169110.6189367.1	22138	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.6226782.1	20408	0	15	0	strict_young_NUMT-like	diagnostic_panel	32	9	3	3	6		1222,1303,1721,1742,4782,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		-11	1	no	-2	3	no	3	2	no
+gnl|SRA|SRR34169110.6235683.1	24852	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		7	1	no			no			no
+gnl|SRA|SRR34169110.625347.1	18825	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,1742,13289,13346,15389		8	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.6283140.1	30943	2	14	0	strict_young_NUMT-like	diagnostic_panel	25		3	2	2	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		-9	1	no			no	6	1	no
+gnl|SRA|SRR34169110.6310256.1	25754	2	14	0	strict_young_NUMT-like	diagnostic_panel	25		3	2	2	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		-5	1	no			no	8	1	no
+gnl|SRA|SRR34169110.6363768.1	15009	0	12	0	strict_young_NUMT-like	diagnostic_panel	40	8	3	3	2		1222,1303,1721,1742,7360,7789,8186,8560,8790,13289,13346,15389		-12	0	no	-1	0	no	2	2	no
+gnl|SRA|SRR34169110.6369028.1	23132	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.6373125.1	10815	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.6375384.1	21560	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.6423840.1	20847	0	3	0	unclassified	insufficient_for_strict_class	7			1	1		1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.6433074.1	20278	1	2	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721		4	1	no			no			no
+gnl|SRA|SRR34169110.644003.1	19865	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		5	2	no			no			no
+gnl|SRA|SRR34169110.6445763.1	17317	0	14	0	strict_young_NUMT-like	diagnostic_panel		9	3	2	1		1222,1303,1721,1742,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389				no	0	0	no	7	1	no
+gnl|SRA|SRR34169110.6479433.1	20774	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.6493245.1	24927	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721		11	2	no			no			no
+gnl|SRA|SRR34169110.6507338.1	19595	0	10	0	strict_young_NUMT-like	diagnostic_panel		9	3	2	1		1222,1303,1721,1742,8186,8560,8790,13289,13346,15389				no	2	0	no	9	1	no
+gnl|SRA|SRR34169110.6515019.1	9478	3	0	0	unclassified	insufficient_for_strict_class	52	5	3	3	0	13289,13346,15389			5	0	no	0	0	no	1	0	no
+gnl|SRA|SRR34169110.6557895.1	16166	0	7	0	unclassified	insufficient_for_strict_class	39	8	3	3	1		1222,1303,1721,1742,13289,13346,15389		9	0	no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.6611977.1	15925	0	3	0	unclassified	insufficient_for_strict_class	34			1	0		1222,1303,1721		12	0	no			no			no
+gnl|SRA|SRR34169110.6613247.1	12828	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.6624329.1	10411	7	0	0	unclassified	insufficient_for_strict_class	48	5	3	3	1	1222,1303,1721,1742,4782,4988,15389			5	0	no	0	0	no	1	1	no
+gnl|SRA|SRR34169110.6634601.1	17570	0	4	0	unclassified	insufficient_for_strict_class	39			1	1		1222,1303,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.6682427.1	19096	0	5	0	unclassified	insufficient_for_strict_class	39	8	3	3	3		1222,1303,1721,1742,15389		0	0	no	-2	2	no	8	1	no
+gnl|SRA|SRR34169110.6692158.1	11204	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.6721395.1	19088	1	3	0	unclassified	insufficient_for_strict_class	25			1	3	1742	1222,1303,1721		-7	3	no			no			no
+gnl|SRA|SRR34169110.6729731.1	16731	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.6739371.1	31311	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.6741038.1	19238	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-5	1	no			no			no
+gnl|SRA|SRR34169110.6748458.1	17313	2	13	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346		-4	1	no			no			no
+gnl|SRA|SRR34169110.674971.1	31174	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.6755437.1	15859	0	15	0	strict_young_NUMT-like	diagnostic_panel			3	1	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,13289,13346,15389				no			no	8	1	no
+gnl|SRA|SRR34169110.6767183.1	8114	1	3	0	unclassified	insufficient_for_strict_class	11			1	2	1303	1222,1721,1742		-11	2	no			no			no
+gnl|SRA|SRR34169110.6798249.1	17032	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		-6	1	no			no			no
+gnl|SRA|SRR34169110.6846218.1	18729	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	53	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			5	0	yes	0	0	yes	0	0	yes
+gnl|SRA|SRR34169110.6857194.1	22248	1	1	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222		5	1	no			no			no
+gnl|SRA|SRR34169110.6863281.1	30625	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		-6	1	no			no			no
+gnl|SRA|SRR34169110.6888156.1	20575	0	9	0	unclassified	insufficient_for_strict_class	34	9	3	3	4		1222,1303,1721,1742,8560,8790,13289,13346,15389		6	1	no	-1	1	no	5	2	no
+gnl|SRA|SRR34169110.6894724.1	21319	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		0	1	no			no			no
+gnl|SRA|SRR34169110.7002891.1	14428	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7009923.1	21104	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.7042712.1	17655	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7065637.1	12898	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.708016.1	26638	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		3	1	no			no			no
+gnl|SRA|SRR34169110.7108864.1	23684	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7138278.1	21342	0	16	0	strict_young_NUMT-like	diagnostic_panel	34	9	3	3	4		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389		10	0	no	0	3	no	7	1	no
+gnl|SRA|SRR34169110.7159594.1	13231	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721		11	2	no			no			no
+gnl|SRA|SRR34169110.7163934.1	12254	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	0	0	no	8	1	no
+gnl|SRA|SRR34169110.7195759.1	14247	0	12	0	strict_young_NUMT-like	diagnostic_panel	30			1	1		1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790		4	1	no			no			no
+gnl|SRA|SRR34169110.7196175.1	27861	0	7	0	unclassified	insufficient_for_strict_class		9	3	2	1		1222,1303,1721,1742,13289,13346,15389				no	2	0	no	6	1	no
+gnl|SRA|SRR34169110.7203151.1	13543	0	4	0	unclassified	insufficient_for_strict_class	34	9	3	3	2		1222,1303,1742,15389		9	0	no	0	0	no	5	2	no
+gnl|SRA|SRR34169110.7212479.1	18361	0	11	0	strict_young_NUMT-like	diagnostic_panel	31			1	1		1222,1303,1742,4782,5553,6552,7360,7789,8186,8560,8790		7	1	no			no			no
+gnl|SRA|SRR34169110.7218548.1	16961	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.7229637.1	24588	1	3	0	unclassified	insufficient_for_strict_class	8			1	1	1303	1222,1721,1742		-12	1	no			no			no
+gnl|SRA|SRR34169110.7255542.1	18983	1	2	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7303527.1	21289	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7320165.1	19854	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		11	1	no			no			no
+gnl|SRA|SRR34169110.7370791.1	11900	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.7429401.1	27011	1	14	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	2	5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		6	0	no	0	0	no	9	2	no
+gnl|SRA|SRR34169110.751555.1	28478	0	7	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742,4782,4988,5553		11	1	no			no			no
+gnl|SRA|SRR34169110.7516981.1	18775	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.7528178.1	20525	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		7	1	no			no			no
+gnl|SRA|SRR34169110.7615876.1	10200	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7620515.1	18879	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		5	2	no			no			no
+gnl|SRA|SRR34169110.7627251.1	19612	1	3	0	unclassified	insufficient_for_strict_class	24			1	1	1303	1222,1721,1742		-9	1	no			no			no
+gnl|SRA|SRR34169110.7633210.1	20912	2	14	0	strict_young_NUMT-like	diagnostic_panel	25		3	2	2	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346,15389		-8	1	no			no	6	1	no
+gnl|SRA|SRR34169110.7680372.1	15854	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.7719384.1	15206	2	11	0	strict_young_NUMT-like	diagnostic_panel	25			1	1	1742,5553	1222,1303,1721,4782,4988,6552,7360,7789,8186,8560,8790		-5	1	no			no			no
+gnl|SRA|SRR34169110.7814422.1	24566	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.7898660.1	25847	1	3	0	unclassified	insufficient_for_strict_class	8			1	1	1303	1222,1721,1742		-12	1	no			no			no
+gnl|SRA|SRR34169110.7914602.1	21133	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7916203.1	17050	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7930980.1	20569	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		-12	1	no			no			no
+gnl|SRA|SRR34169110.7941304.1	22316	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.7965117.1	27724	1	2	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721		5	1	no			no			no
+gnl|SRA|SRR34169110.797273.1	16357	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.8007259.1	23347	1	13	0	strict_young_NUMT-like	diagnostic_panel	39	8	3	3	3	5553	1222,1303,1721,1742,6552,7360,7789,8186,8560,8790,13289,13346,15389		7	1	no	1	0	no	10	2	no
+gnl|SRA|SRR34169110.8021535.1	15842	15	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	48	5	3	3	1	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8790,13289,13346,15389			3	0	yes	0	1	yes	-1	0	yes
+gnl|SRA|SRR34169110.8030452.1	28694	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1742		7	2	no			no			no
+gnl|SRA|SRR34169110.8091758.1	18562	16	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	47	5	3	3	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389			5	0	yes	0	0	yes	1	0	yes
+gnl|SRA|SRR34169110.8101693.1	30653	1	3	0	unclassified	insufficient_for_strict_class	11			1	1	1303	1222,1721,1742		12	1	no			no			no
+gnl|SRA|SRR34169110.8106718.1	24415	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.8122650.1	20108	0	3	0	unclassified	insufficient_for_strict_class	25			1	2		1222,1303,1721		-4	2	no			no			no
+gnl|SRA|SRR34169110.81272.1	15561	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.8134473.1	16608	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		5	1	no			no			no
+gnl|SRA|SRR34169110.8143951.1	17433	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.8144722.1	11297	0	9	0	unclassified	insufficient_for_strict_class	31			1	1		1222,1303,1721,1742,4782,4988,5553,6552,7360		11	1	no			no			no
+gnl|SRA|SRR34169110.8153120.1	26889	1	3	0	unclassified	insufficient_for_strict_class	7			1	1	1303	1222,1721,1742		7	1	no			no			no
+gnl|SRA|SRR34169110.8154206.1	18419	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.8227364.1	23444	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.8266302.1	25651	2	5	0	unclassified	insufficient_for_strict_class	25			1	1	1742,5553	1222,1303,1721,4782,4988		-5	1	no			no			no
+gnl|SRA|SRR34169110.8289817.1	31028	0	5	0	unclassified	insufficient_for_strict_class	34	9	3	3	3		1222,1303,1721,1742,15389		9	0	no	1	0	no	6	3	no
+gnl|SRA|SRR34169110.829356.1	21304	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		0	1	no			no			no
+gnl|SRA|SRR34169110.832086.1	21447	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.835657.1	26802	1	2	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1721,1742		11	2	no			no			no
+gnl|SRA|SRR34169110.83937.1	22587	0	12	0	strict_young_NUMT-like	diagnostic_panel	31			1	1		1222,1303,1721,1742,4782,4988,5553,6552,7360,8186,8560,8790		11	1	no			no			no
+gnl|SRA|SRR34169110.927613.1	8437	0	3	0	unclassified	insufficient_for_strict_class		9	3	2	2		13289,13346,15389				no	0	1	no	8	1	no
+gnl|SRA|SRR34169110.929361.1	18442	14	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class	39	5	3	3	3	1222,1303,1721,1742,4988,5553,7360,7789,8186,8560,8790,13289,13346,15389			6	2	yes	0	0	yes	3	1	yes
+gnl|SRA|SRR34169110.934054.1	18148	0	16	0	strict_young_NUMT-like	diagnostic_panel		9	3	2	2		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346,15389				no	3	0	no	12	2	no
+gnl|SRA|SRR34169110.940474.1	15821	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.949526.1	21578	1	3	0	unclassified	insufficient_for_strict_class	7			1	2	1303	1222,1721,1742		12	2	no			no			no
+gnl|SRA|SRR34169110.959235.1	14651	1	3	0	unclassified	insufficient_for_strict_class	23			1	1	1303	1222,1721,1742		4	1	no			no			no
+gnl|SRA|SRR34169110.1899151.1	11149	13	0	0	strict_mtDNA-like	legacy_100_read_mtDNA_class				0	0	1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790					no			no			no
+gnl|SRA|SRR34169110.4134749.1	10265	9	0	0	unclassified	insufficient_for_strict_class				0	0	4782,4988,5553,6552,7360,7789,8186,8560,8790					no			no			no
+gnl|SRA|SRR34169110.652319.1	24261	0	11	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560				no			no			no
+gnl|SRA|SRR34169110.442283.1	31663	0	13	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790				no			no			no
+gnl|SRA|SRR34169110.6095157.1	15741	0	13	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790				no			no			no
+gnl|SRA|SRR34169110.5693019.1	24575	0	14	0	strict_young_NUMT-like	diagnostic_panel				0	0		1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346				no			no			no
+gnl|SRA|SRR34169110.779236.1	12813	0	13	0	strict_young_NUMT-like	diagnostic_panel				0	0		1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346				no			no			no
+gnl|SRA|SRR34169110.8331305.1	9016	0	13	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790				no			no			no
+gnl|SRA|SRR34169110.1150309.1	14504	0	14	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1303,1721,1742,4782,4988,6552,7360,7789,8186,8560,8790,13289,13346				no			no			no
+gnl|SRA|SRR34169110.3558518.1	14025	0	15	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1303,1721,1742,4782,4988,5553,6552,7360,7789,8186,8560,8790,13289,13346				no			no			no
+gnl|SRA|SRR34169110.7109640.1	15837	0	14	0	strict_young_NUMT-like	diagnostic_panel				0	0		1222,1303,1721,1742,4782,4988,5553,6552,7360,8186,8560,8790,13289,13346				no			no			no

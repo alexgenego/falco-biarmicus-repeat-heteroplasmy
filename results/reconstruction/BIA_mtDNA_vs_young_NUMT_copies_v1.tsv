@@ -1,0 +1,4 @@
+NUMT_copy	orientation_to_mtDNA	NUMT_length	common_core_start_CHE	common_core_end_CHE	strict_common_core_bp	substitutions_vs_BIA_mtDNA	identity_vs_BIA_mtDNA	insertion_events_vs_CHE	inserted_bp_vs_CHE	deletion_events_vs_CHE	deleted_bp_vs_CHE
+JAMOAU010000287.1:101034-116265	-	15232	1	15184	15182	14	0.9990779	4	48	0	0
+JAMOAU010000287.1:447310-462543	-	15234	1	15184	15182	17	0.9988803	6	51	1	2
+JAMOAU010000287.1:465650-480881	-	15232	1	15184	15182	12	0.9992096	4	48	0	0

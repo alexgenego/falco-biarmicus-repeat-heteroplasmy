@@ -1,0 +1,52 @@
+read_id	sequence_background	final_classification	R27	R56	R80	direct_nuclear_flank_link	max_specific_flank_21mer_hits	linked_flanks	copy_101034_116265_left_hits	copy_101034_116265_right_hits	copy_447310_462543_left_hits	copy_447310_462543_right_hits	copy_465650_480881_left_hits	copy_465650_480881_right_hits
+gnl|SRA|SRR25731498.919682.1	M-like	mtDNA-like		5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.417591.1	N-like	young_NUMT_direct	25		3	yes	277	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_465650_480881_left,copy_465650_480881_right	33	277	12	0	33	247
+gnl|SRA|SRR25731498.180607.1	N-like	young_NUMT_direct	26	8	3	yes	245	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	42	225	21	23	42	245
+gnl|SRA|SRR25731498.324429.1	M-like	mtDNA-like		5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.410698.1	M-like	mtDNA-like	19	5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.405035.1	N-like	young_NUMT_direct		8	3	yes	42	copy_101034_116265_left,copy_447310_462543_left,copy_465650_480881_left	42	0	21	0	42	0
+gnl|SRA|SRR25731498.686627.1	M-like	mtDNA-like	20	5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.631813.1	N-like	young_NUMT_direct	32	8	3	yes	27	copy_101034_116265_left,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left	27	0	6	23	27	0
+gnl|SRA|SRR25731498.87065.1	N-like	young_NUMT_direct	32	8	3	yes	42	copy_101034_116265_left,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left	42	0	21	23	42	0
+gnl|SRA|SRR25731498.544463.1	N-like	young_NUMT_direct	25			yes	285	copy_101034_116265_right,copy_465650_480881_right	0	259	0	0	0	285
+gnl|SRA|SRR25731498.691932.1	M-like	mtDNA-like	48	6	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.226531.1	N-like	young_NUMT_direct	32	8	3	yes	42	copy_101034_116265_left,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left	42	0	21	23	42	0
+gnl|SRA|SRR25731498.636866.1	N-like	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.621189.1	M-like	mtDNA-like	41	5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.695685.1	N-like	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.138750.1	N-like	young_NUMT_direct	33	8	3	yes	19	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	7	11	7	19	7	11
+gnl|SRA|SRR25731498.913227.1	M-like	mtDNA-like	49	5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.113414.1	M-like	mtDNA-like	46	5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.705200.1	N-like	young_NUMT_direct	54	8	3	yes	42	copy_101034_116265_left,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left	42	0	21	23	42	0
+gnl|SRA|SRR25731498.308159.1	M-like	mtDNA-like	18	4	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.341416.1	M-like	mtDNA-like	19	5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.352200.1	N-like	young_NUMT_direct	54	8	3	yes	37	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	37	11	21	23	37	11
+gnl|SRA|SRR25731498.223204.1	N-like	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.711747.1	M-like	mtDNA-like	38	5	2	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.319925.1	N-like	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.906104.1	N-like	young_NUMT_direct		8	3	yes	166	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	21	153	21	23	21	166
+gnl|SRA|SRR25731498.814127.1	N-like	young_NUMT_direct	33	8	3	yes	23	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	21	14	21	23	21	14
+gnl|SRA|SRR25731498.268331.1	unclassified	young_NUMT_direct	11			yes	256	copy_101034_116265_right,copy_465650_480881_right	0	244	0	0	0	256
+gnl|SRA|SRR25731498.345005.1	N-like	young_NUMT_direct	34			yes	18	copy_101034_116265_right,copy_447310_462543_right,copy_465650_480881_right	0	11	0	18	0	11
+gnl|SRA|SRR25731498.685733.1	unclassified	young_NUMT_direct	11			yes	270	copy_101034_116265_right,copy_465650_480881_right	0	258	0	0	0	270
+gnl|SRA|SRR25731498.633033.1	N-like	young_NUMT_direct	11			yes	265	copy_101034_116265_right,copy_465650_480881_right	0	253	0	0	0	265
+gnl|SRA|SRR25731498.401168.1	N-like	young_NUMT_direct		8	3	yes	23	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	21	11	21	23	21	11
+gnl|SRA|SRR25731498.590121.1	N-like	young_NUMT_direct	12			yes	234	copy_101034_116265_right,copy_465650_480881_right	0	222	0	0	0	234
+gnl|SRA|SRR25731498.323976.1	unclassified	young_NUMT_direct	11			yes	256	copy_101034_116265_right,copy_465650_480881_right	0	244	0	0	0	256
+gnl|SRA|SRR25731498.517481.1	unclassified	young_NUMT_direct	10			yes	227	copy_101034_116265_right,copy_465650_480881_right	0	210	0	0	0	227
+gnl|SRA|SRR25731498.847320.1	N-like	young_NUMT_direct	9			yes	184	copy_101034_116265_right,copy_465650_480881_right	0	167	0	0	0	184
+gnl|SRA|SRR25731498.410380.1	unclassified	young_NUMT_direct	8			yes	260	copy_101034_116265_right,copy_465650_480881_right	0	239	0	0	0	260
+gnl|SRA|SRR25731498.368250.1	N-like	young_NUMT_direct	54	8	3	yes	42	copy_101034_116265_left,copy_101034_116265_right,copy_447310_462543_left,copy_447310_462543_right,copy_465650_480881_left,copy_465650_480881_right	42	11	21	23	42	11
+gnl|SRA|SRR25731498.792370.1	N-like	young_NUMT_direct	8			yes	229	copy_101034_116265_right,copy_465650_480881_right	0	217	0	0	0	229
+gnl|SRA|SRR25731498.323079.1	N-like	young_NUMT_direct	11			yes	233	copy_101034_116265_right,copy_465650_480881_right	0	221	0	0	0	233
+gnl|SRA|SRR25731498.677730.1	N-like	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.751366.1	unclassified	young_NUMT_direct	11			yes	270	copy_101034_116265_right,copy_465650_480881_right	0	258	0	0	0	270
+gnl|SRA|SRR25731498.171960.1	unclassified	young_NUMT_direct	11			yes	205	copy_101034_116265_right,copy_465650_480881_right	0	193	0	0	0	205
+gnl|SRA|SRR25731498.235336.1	unclassified	young_NUMT_direct	13			yes	244	copy_101034_116265_right,copy_465650_480881_right	0	232	0	0	0	244
+gnl|SRA|SRR25731498.225478.1	M-like	mtDNA-like		5	3	no	0		0	0	0	0	0	0
+gnl|SRA|SRR25731498.743488.1	unclassified	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.360700.1	N-like	young_NUMT_direct	9			yes	240	copy_101034_116265_right,copy_465650_480881_right	0	228	0	0	0	240
+gnl|SRA|SRR25731498.869937.1	unclassified	young_NUMT_direct	26			yes	307	copy_101034_116265_right,copy_465650_480881_right	0	276	0	0	0	307
+gnl|SRA|SRR25731498.302158.1	unclassified	young_NUMT_direct	11			yes	224	copy_101034_116265_right,copy_465650_480881_right	0	212	0	0	0	224
+gnl|SRA|SRR25731498.860737.1	unclassified	young_NUMT_direct	25			yes	297	copy_101034_116265_right,copy_465650_480881_right	0	297	0	0	0	267
+gnl|SRA|SRR25731498.918037.1	unclassified	young_NUMT_direct	25			yes	307	copy_101034_116265_right,copy_465650_480881_right	0	276	0	0	0	307
